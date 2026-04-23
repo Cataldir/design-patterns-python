@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+.env
+
+# IDE
+.vscode/
+.idea/
+.pytest_cache/
+
+# Distribution
+*.egg-info/
+dist/
+build/
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated media
+*.mp4
+*.wav
