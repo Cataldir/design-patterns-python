@@ -1,4 +1,10 @@
-# lab-L2-command-observer-pipeline
+# Lab L2 — Build an Order-Processing Pipeline with Command + Observer
 
-See the course for instructions.
+Start with `starter.py` which provides EventBus and OrderPipeline.
+Implement the three command classes. Compare your result with `solution.py`.
 
+## Run Tests
+
+```bash
+pytest test_lab.py -v
+```
